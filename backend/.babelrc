@@ -1,0 +1,8 @@
+// Presets for babel 
+// stage-0 is so that resent changes to languages are included
+{
+    "presets": [
+        "env",
+        "stage-0"
+    ]
+}
